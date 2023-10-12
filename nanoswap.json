@@ -73,23 +73,7 @@
         "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
         "chainId": 8453,
         "decimals": 18,
-        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64df9399a4317c2e96a63551_Dai%20-%20Alienbase.png"
-      },
-      {
-        "name": "YieldFarming Index",
-        "symbol": "YFX",
-        "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
-        "chainId": 8453,
-        "decimals": 18,
-        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64dface2d4934bb836ce5e21_YFX%20-%20Alienbase.png"
-      },
-      {
-        "name": "Rebase",
-        "symbol": "REBASE",
-        "address": "0x3421cc14f0e3822cf3b73c3a4bec2a1023b8d9cf",
-        "chainId": 8453,
-        "decimals": 9,
-        "logoURI": "https://app.alienbase.xyz/images/tokens/0x3421cc14f0e3822cf3b73c3a4bec2a1023b8d9cf.png"
+        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=025"
       }
     ]
   }
