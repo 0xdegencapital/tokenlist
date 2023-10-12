@@ -12,12 +12,12 @@
     ],
     "tokens": [
       {
-        "name": "AlienBase Token",
-        "symbol": "ALB",
-        "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
+        "name": "Nanoswap Token",
+        "symbol": "NANO",
+        "address": "0x28f45eA79c50d3ED9e1FA8A41dC8595F636eC34D",
         "chainId": 8453,
         "decimals": 18,
-        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64d28bff796c6d221b72124c_ALB_Alienbase_Token_Logo.png"
+        "logoURI": "https://i.ibb.co/R9y3dZb/0x28f45e-A79c50d3-ED9e1-FA8-A41d-C8595-F636e-C34-D.png"
       },
       {
         "name": "Wrapped Ether",
@@ -33,7 +33,7 @@
         "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
         "chainId": 8453,
         "decimals": 6,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.png"
+        "logoURI": "https://i.ibb.co/NVzjCr8/0xd9a-AEc86-B65-D86f6-A7-B5-B1b0c42-FFA531710b6-CA.png"
       },
       {
         "name": "Axelar USDC",
@@ -57,7 +57,7 @@
         "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
         "chainId": 8453,
         "decimals": 6,
-        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64dbb0844dfa5566f3c2e08d_USD%2B.png"
+        "logoURI": "https://i.ibb.co/37RYcGd/usd.png"
       },
       {
         "name": "DAI Plus",
@@ -65,7 +65,7 @@
         "address": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
         "chainId": 8453,
         "decimals": 18,
-        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64dbb1ce0aeef21b05b1f66c_dai%20%2B%20alienbase.png"
+        "logoURI": "https://i.ibb.co/sq9KVD0/dai.png"
       },
       {
         "name": "Dai",
@@ -73,7 +73,7 @@
         "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
         "chainId": 8453,
         "decimals": 18,
-        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=025"
+        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png"
       }
     ]
   }
