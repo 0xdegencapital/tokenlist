@@ -1,0 +1,95 @@
+{
+    "name": "Nanoswap List",
+    "timestamp": "2023-08-15T14:34:34.912Z",
+    "version": {
+      "major": 2,
+      "minor": 18,
+      "patch": 160
+    },
+    "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64d28bff796c6d221b72124c_ALB_Alienbase_Token_Logo.png",
+    "keywords": [
+      "nanoswap"
+    ],
+    "tokens": [
+      {
+        "name": "AlienBase Token",
+        "symbol": "ALB",
+        "address": "0x1dd2d631c92b1aCdFCDd51A0F7145A50130050C4",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64d28bff796c6d221b72124c_ALB_Alienbase_Token_Logo.png"
+      },
+      {
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "address": "0x4200000000000000000000000000000000000006",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://cdn.sushi.com/image/upload/f_auto,c_limit,w_28,q_auto/native-currency/ethereum.svg"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDbC",
+        "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.png"
+      },
+      {
+        "name": "Axelar USDC",
+        "symbol": "axlUSDC",
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x4268B8F0B87b6Eae5d897996E6b845ddbD99Adf3.png"
+      },
+      {
+        "name": "Coinbase Staked ETH",
+        "symbol": "cbETH",
+        "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64d28eef0e1e6dc7d8daab48_cbeth_Token_Logo.png"
+      },
+      {
+        "name": "USD Plus",
+        "symbol": "USD+",
+        "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+        "chainId": 8453,
+        "decimals": 6,
+        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64dbb0844dfa5566f3c2e08d_USD%2B.png"
+      },
+      {
+        "name": "DAI Plus",
+        "symbol": "DAI+",
+        "address": "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64dbb1ce0aeef21b05b1f66c_dai%20%2B%20alienbase.png"
+      },
+      {
+        "name": "Dai",
+        "symbol": "DAI",
+        "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64df9399a4317c2e96a63551_Dai%20-%20Alienbase.png"
+      },
+      {
+        "name": "YieldFarming Index",
+        "symbol": "YFX",
+        "address": "0x8901cB2e82CC95c01e42206F8d1F417FE53e7Af0",
+        "chainId": 8453,
+        "decimals": 18,
+        "logoURI": "https://uploads-ssl.webflow.com/64cbee09247dbfc903310b01/64dface2d4934bb836ce5e21_YFX%20-%20Alienbase.png"
+      },
+      {
+        "name": "Rebase",
+        "symbol": "REBASE",
+        "address": "0x3421cc14f0e3822cf3b73c3a4bec2a1023b8d9cf",
+        "chainId": 8453,
+        "decimals": 9,
+        "logoURI": "https://app.alienbase.xyz/images/tokens/0x3421cc14f0e3822cf3b73c3a4bec2a1023b8d9cf.png"
+      }
+    ]
+  }
